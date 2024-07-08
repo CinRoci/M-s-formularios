@@ -1,0 +1,13 @@
+#root {
+  max-width: 1100px;
+  margin: 0 10px 0 20px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.add{
+  margin-top: 10px;
+}
